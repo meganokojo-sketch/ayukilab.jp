@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.header-nav img{
+    height:30px;
+}
+.header-nav {
+    display: flex;
+}
+.header_left {
+    font-size: 30px;
+    display:flex;
+    align-content:center;
+    text-align:center;
+}
+
+
+
+/*----------フッター要素----------*/
+.footer {
+    height: 300px;
+    background-color: #2f3a44;
+    color: #e8e8e8;
+    text-align: center;
+}
+
+.footer_center {
+    padding-top: 1200px; /*上余白*/
+}
